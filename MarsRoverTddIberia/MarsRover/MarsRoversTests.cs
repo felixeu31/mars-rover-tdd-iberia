@@ -10,8 +10,4 @@ namespace MarsRover
             (new MarsRoverCar()).Should().NotBeNull();
         }
     }
-
-    public class MarsRoverCar
-    {
-    }
 }
